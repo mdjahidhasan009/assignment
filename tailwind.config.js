@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       colors: {
         iconColor:'#696969',
+        placeholderColor: '#9E9E9E'
       }
     },
   },
